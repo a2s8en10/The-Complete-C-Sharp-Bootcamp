@@ -11,6 +11,7 @@ namespace For_Loop_2
         static void Main(string[] args)
         {
             // Question no. 1
+
             Console.WriteLine("Enter the number of table : ");
             int a = int.Parse(Console.ReadLine());
 
@@ -22,17 +23,18 @@ namespace For_Loop_2
             }
 
             // Question no. 2
+
             Console.WriteLine("Enter the number of table : ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= 10; i++)
             {
 
-                for (int j = 1; j <=10; j++)
+                for (int j = 1; j <=n; j++)
                 {
                     int sum;
                     sum = i * j;
-                    Console.WriteLine("{0} X {1} = {2}, ",i,j,sum);
+                    Console.Write("{0} X {1} = {2}, ",j,i,sum);
 
                 }
                 Console.WriteLine();
@@ -42,6 +44,7 @@ namespace For_Loop_2
                 //Console.WriteLine("{0} X {1} = {2}", a, i, sum1);
             }
 
+            //Question no. 3
 
 
 
