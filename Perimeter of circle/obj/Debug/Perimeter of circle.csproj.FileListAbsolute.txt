@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Perimeter of circle\bin\Debug\Perimeter of circle.exe.config
+C:\Users\Anurag\source\repos\Perimeter of circle\bin\Debug\Perimeter of circle.exe
+C:\Users\Anurag\source\repos\Perimeter of circle\bin\Debug\Perimeter of circle.pdb
+C:\Users\Anurag\source\repos\Perimeter of circle\obj\Debug\Perimeter of circle.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Perimeter of circle\obj\Debug\Perimeter of circle.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Perimeter of circle\obj\Debug\Perimeter of circle.exe
+C:\Users\Anurag\source\repos\Perimeter of circle\obj\Debug\Perimeter of circle.pdb

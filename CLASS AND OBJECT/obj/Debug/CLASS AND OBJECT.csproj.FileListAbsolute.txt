@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\bin\Debug\CLASS AND OBJECT.exe.config
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\bin\Debug\CLASS AND OBJECT.exe
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\bin\Debug\CLASS AND OBJECT.pdb
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\obj\Debug\CLASS AND OBJECT.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\obj\Debug\CLASS AND OBJECT.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\obj\Debug\CLASS AND OBJECT.exe
+C:\Users\Anurag\source\repos\CLASS AND OBJECT\obj\Debug\CLASS AND OBJECT.pdb

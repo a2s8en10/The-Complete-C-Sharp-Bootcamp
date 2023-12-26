@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\STATIC MEMBER\bin\Debug\STATIC MEMBER.exe.config
+C:\Users\Anurag\source\repos\STATIC MEMBER\bin\Debug\STATIC MEMBER.exe
+C:\Users\Anurag\source\repos\STATIC MEMBER\bin\Debug\STATIC MEMBER.pdb
+C:\Users\Anurag\source\repos\STATIC MEMBER\obj\Debug\STATIC MEMBER.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\STATIC MEMBER\obj\Debug\STATIC MEMBER.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\STATIC MEMBER\obj\Debug\STATIC MEMBER.exe
+C:\Users\Anurag\source\repos\STATIC MEMBER\obj\Debug\STATIC MEMBER.pdb

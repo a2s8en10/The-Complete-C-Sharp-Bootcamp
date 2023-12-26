@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\firstcode.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\firstcode.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Anurag\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

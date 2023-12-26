@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Area Of Rhombus\bin\Debug\Area Of Rhombus.exe.config
+C:\Users\Anurag\source\repos\Area Of Rhombus\bin\Debug\Area Of Rhombus.exe
+C:\Users\Anurag\source\repos\Area Of Rhombus\bin\Debug\Area Of Rhombus.pdb
+C:\Users\Anurag\source\repos\Area Of Rhombus\obj\Debug\Area Of Rhombus.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Area Of Rhombus\obj\Debug\Area Of Rhombus.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Area Of Rhombus\obj\Debug\Area Of Rhombus.exe
+C:\Users\Anurag\source\repos\Area Of Rhombus\obj\Debug\Area Of Rhombus.pdb

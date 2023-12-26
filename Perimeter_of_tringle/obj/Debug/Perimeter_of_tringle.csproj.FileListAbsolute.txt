@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\bin\Debug\Perimeter_of_tringle.exe.config
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\bin\Debug\Perimeter_of_tringle.exe
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\bin\Debug\Perimeter_of_tringle.pdb
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\obj\Debug\Perimeter_of_tringle.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\obj\Debug\Perimeter_of_tringle.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\obj\Debug\Perimeter_of_tringle.exe
+C:\Users\Anurag\source\repos\Perimeter_of_tringle\obj\Debug\Perimeter_of_tringle.pdb

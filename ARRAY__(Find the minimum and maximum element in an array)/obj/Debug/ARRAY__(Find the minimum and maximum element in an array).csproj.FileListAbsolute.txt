@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\bin\Debug\ARRAY__(Find the minimum and maximum element in an array).exe.config
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\bin\Debug\ARRAY__(Find the minimum and maximum element in an array).exe
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\bin\Debug\ARRAY__(Find the minimum and maximum element in an array).pdb
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\obj\Debug\ARRAY__(Find the minimum and maximum element in an array).csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\obj\Debug\ARRAY__(Find the minimum and maximum element in an array).csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\obj\Debug\ARRAY__(Find the minimum and maximum element in an array).exe
+C:\Users\Anurag\source\repos\ARRAY__(Find the minimum and maximum element in an array)\obj\Debug\ARRAY__(Find the minimum and maximum element in an array).pdb

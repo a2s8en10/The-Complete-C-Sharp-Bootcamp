@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\the non-matching characters in a string\bin\Debug\the non-matching characters in a string.exe.config
+C:\Users\Anurag\source\repos\the non-matching characters in a string\bin\Debug\the non-matching characters in a string.exe
+C:\Users\Anurag\source\repos\the non-matching characters in a string\bin\Debug\the non-matching characters in a string.pdb
+C:\Users\Anurag\source\repos\the non-matching characters in a string\obj\Debug\the non-matching characters in a string.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\the non-matching characters in a string\obj\Debug\the non-matching characters in a string.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\the non-matching characters in a string\obj\Debug\the non-matching characters in a string.exe
+C:\Users\Anurag\source\repos\the non-matching characters in a string\obj\Debug\the non-matching characters in a string.pdb

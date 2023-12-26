@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\the sum of two integers\bin\Debug\the sum of two integers.exe.config
+C:\Users\Anurag\source\repos\the sum of two integers\bin\Debug\the sum of two integers.exe
+C:\Users\Anurag\source\repos\the sum of two integers\bin\Debug\the sum of two integers.pdb
+C:\Users\Anurag\source\repos\the sum of two integers\obj\Debug\the sum of two integers.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\the sum of two integers\obj\Debug\the sum of two integers.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\the sum of two integers\obj\Debug\the sum of two integers.exe
+C:\Users\Anurag\source\repos\the sum of two integers\obj\Debug\the sum of two integers.pdb

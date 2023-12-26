@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\check if an integer is even or odd\bin\Debug\check if an integer is even or odd.exe.config
+C:\Users\Anurag\source\repos\check if an integer is even or odd\bin\Debug\check if an integer is even or odd.exe
+C:\Users\Anurag\source\repos\check if an integer is even or odd\bin\Debug\check if an integer is even or odd.pdb
+C:\Users\Anurag\source\repos\check if an integer is even or odd\obj\Debug\check if an integer is even or odd.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\check if an integer is even or odd\obj\Debug\check if an integer is even or odd.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\check if an integer is even or odd\obj\Debug\check if an integer is even or odd.exe
+C:\Users\Anurag\source\repos\check if an integer is even or odd\obj\Debug\check if an integer is even or odd.pdb

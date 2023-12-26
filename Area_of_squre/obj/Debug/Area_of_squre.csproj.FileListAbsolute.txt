@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Area_of_squre\bin\Debug\Area_of_squre.exe.config
+C:\Users\Anurag\source\repos\Area_of_squre\bin\Debug\Area_of_squre.exe
+C:\Users\Anurag\source\repos\Area_of_squre\bin\Debug\Area_of_squre.pdb
+C:\Users\Anurag\source\repos\Area_of_squre\obj\Debug\Area_of_squre.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Area_of_squre\obj\Debug\Area_of_squre.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Area_of_squre\obj\Debug\Area_of_squre.exe
+C:\Users\Anurag\source\repos\Area_of_squre\obj\Debug\Area_of_squre.pdb

@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\class and object employee\bin\Debug\class and object employee.exe.config
+C:\Users\Anurag\source\repos\class and object employee\bin\Debug\class and object employee.exe
+C:\Users\Anurag\source\repos\class and object employee\bin\Debug\class and object employee.pdb
+C:\Users\Anurag\source\repos\class and object employee\obj\Debug\class and object employee.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\class and object employee\obj\Debug\class and object employee.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\class and object employee\obj\Debug\class and object employee.exe
+C:\Users\Anurag\source\repos\class and object employee\obj\Debug\class and object employee.pdb

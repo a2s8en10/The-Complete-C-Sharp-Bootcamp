@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\obj\Debug\SELECTION_CONSTRACTOR_IF-ELSE.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\obj\Debug\SELECTION_CONSTRACTOR_IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\bin\Debug\SELECTION_CONSTRACTOR_IF-ELSE.exe.config
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\bin\Debug\SELECTION_CONSTRACTOR_IF-ELSE.exe
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\bin\Debug\SELECTION_CONSTRACTOR_IF-ELSE.pdb
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\obj\Debug\SELECTION_CONSTRACTOR_IF-ELSE.exe
+C:\Users\Anurag\source\repos\SELECTION_CONSTRACTOR_IF-ELSE\obj\Debug\SELECTION_CONSTRACTOR_IF-ELSE.pdb

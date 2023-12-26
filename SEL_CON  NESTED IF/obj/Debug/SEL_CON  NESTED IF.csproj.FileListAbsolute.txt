@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\obj\Debug\SEL_CON  NESTED IF.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\obj\Debug\SEL_CON  NESTED IF.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\bin\Debug\SEL_CON  NESTED IF.exe.config
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\bin\Debug\SEL_CON  NESTED IF.exe
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\bin\Debug\SEL_CON  NESTED IF.pdb
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\obj\Debug\SEL_CON  NESTED IF.exe
+C:\Users\Anurag\source\repos\SEL_CON  NESTED IF\obj\Debug\SEL_CON  NESTED IF.pdb

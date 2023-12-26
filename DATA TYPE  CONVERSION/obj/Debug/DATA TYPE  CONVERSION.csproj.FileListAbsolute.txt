@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\bin\Debug\DATA TYPE  CONVERSION.exe.config
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\bin\Debug\DATA TYPE  CONVERSION.exe
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\bin\Debug\DATA TYPE  CONVERSION.pdb
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\obj\Debug\DATA TYPE  CONVERSION.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\obj\Debug\DATA TYPE  CONVERSION.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\obj\Debug\DATA TYPE  CONVERSION.exe
+C:\Users\Anurag\source\repos\DATA TYPE  CONVERSION\obj\Debug\DATA TYPE  CONVERSION.pdb

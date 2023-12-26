@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\bin\Debug\the number of numerical digits in a string.exe.config
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\bin\Debug\the number of numerical digits in a string.exe
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\bin\Debug\the number of numerical digits in a string.pdb
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\obj\Debug\the number of numerical digits in a string.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\obj\Debug\the number of numerical digits in a string.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\obj\Debug\the number of numerical digits in a string.exe
+C:\Users\Anurag\source\repos\the number of numerical digits in a string\obj\Debug\the number of numerical digits in a string.pdb

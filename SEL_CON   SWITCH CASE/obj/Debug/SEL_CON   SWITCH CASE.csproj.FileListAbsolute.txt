@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\obj\Debug\SEL_CON   SWITCH CASE.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\obj\Debug\SEL_CON   SWITCH CASE.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\bin\Debug\SEL_CON   SWITCH CASE.exe.config
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\bin\Debug\SEL_CON   SWITCH CASE.exe
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\bin\Debug\SEL_CON   SWITCH CASE.pdb
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\obj\Debug\SEL_CON   SWITCH CASE.exe
+C:\Users\Anurag\source\repos\SEL_CON   SWITCH CASE\obj\Debug\SEL_CON   SWITCH CASE.pdb

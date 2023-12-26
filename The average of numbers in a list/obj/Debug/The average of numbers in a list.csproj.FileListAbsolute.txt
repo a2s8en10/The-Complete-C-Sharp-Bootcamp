@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\The average of numbers in a list\bin\Debug\The average of numbers in a list.exe.config
+C:\Users\Anurag\source\repos\The average of numbers in a list\bin\Debug\The average of numbers in a list.exe
+C:\Users\Anurag\source\repos\The average of numbers in a list\bin\Debug\The average of numbers in a list.pdb
+C:\Users\Anurag\source\repos\The average of numbers in a list\obj\Debug\The average of numbers in a list.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\The average of numbers in a list\obj\Debug\The average of numbers in a list.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\The average of numbers in a list\obj\Debug\The average of numbers in a list.exe
+C:\Users\Anurag\source\repos\The average of numbers in a list\obj\Debug\The average of numbers in a list.pdb

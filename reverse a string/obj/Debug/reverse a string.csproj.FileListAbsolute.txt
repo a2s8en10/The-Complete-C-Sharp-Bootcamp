@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\reverse a string\obj\Debug\reverse a string.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\reverse a string\obj\Debug\reverse a string.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\reverse a string\bin\Debug\reverse a string.exe.config
+C:\Users\Anurag\source\repos\reverse a string\bin\Debug\reverse a string.exe
+C:\Users\Anurag\source\repos\reverse a string\bin\Debug\reverse a string.pdb
+C:\Users\Anurag\source\repos\reverse a string\obj\Debug\reverse a string.exe
+C:\Users\Anurag\source\repos\reverse a string\obj\Debug\reverse a string.pdb

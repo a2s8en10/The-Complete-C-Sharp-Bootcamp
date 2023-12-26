@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Class project\bin\Debug\Class project.exe.config
+C:\Users\Anurag\source\repos\Class project\bin\Debug\Class project.exe
+C:\Users\Anurag\source\repos\Class project\bin\Debug\Class project.pdb
+C:\Users\Anurag\source\repos\Class project\obj\Debug\Class project.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Class project\obj\Debug\Class project.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Class project\obj\Debug\Class project.exe
+C:\Users\Anurag\source\repos\Class project\obj\Debug\Class project.pdb

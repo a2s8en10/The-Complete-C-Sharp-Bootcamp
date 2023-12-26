@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\bin\Debug\Perimeter_of_rectangle.exe.config
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\bin\Debug\Perimeter_of_rectangle.exe
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\bin\Debug\Perimeter_of_rectangle.pdb
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\obj\Debug\Perimeter_of_rectangle.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\obj\Debug\Perimeter_of_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\obj\Debug\Perimeter_of_rectangle.exe
+C:\Users\Anurag\source\repos\Perimeter_of_rectangle\obj\Debug\Perimeter_of_rectangle.pdb

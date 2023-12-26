@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\bin\Debug\Perimeter of Rhombus.exe.config
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\bin\Debug\Perimeter of Rhombus.exe
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\bin\Debug\Perimeter of Rhombus.pdb
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\obj\Debug\Perimeter of Rhombus.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\obj\Debug\Perimeter of Rhombus.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\obj\Debug\Perimeter of Rhombus.exe
+C:\Users\Anurag\source\repos\Perimeter of Rhombus\obj\Debug\Perimeter of Rhombus.pdb

@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\bin\Debug\COPY CONSTRUCTOR.exe.config
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\bin\Debug\COPY CONSTRUCTOR.exe
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\bin\Debug\COPY CONSTRUCTOR.pdb
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\obj\Debug\COPY CONSTRUCTOR.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\obj\Debug\COPY CONSTRUCTOR.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\obj\Debug\COPY CONSTRUCTOR.exe
+C:\Users\Anurag\source\repos\COPY CONSTRUCTOR\obj\Debug\COPY CONSTRUCTOR.pdb

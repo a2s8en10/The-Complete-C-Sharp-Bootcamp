@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\string char\bin\Debug\string char.exe.config
+C:\Users\Anurag\source\repos\string char\bin\Debug\string char.exe
+C:\Users\Anurag\source\repos\string char\bin\Debug\string char.pdb
+C:\Users\Anurag\source\repos\string char\obj\Debug\string char.csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\string char\obj\Debug\string char.csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\string char\obj\Debug\string char.exe
+C:\Users\Anurag\source\repos\string char\obj\Debug\string char.pdb

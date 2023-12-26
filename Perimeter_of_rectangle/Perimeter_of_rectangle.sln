@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimeter_of_rectangle", "Perimeter_of_rectangle.csproj", "{EE7DD071-C9B9-4F4D-86FC-3F2B643F0167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7DD071-C9B9-4F4D-86FC-3F2B643F0167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7DD071-C9B9-4F4D-86FC-3F2B643F0167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7DD071-C9B9-4F4D-86FC-3F2B643F0167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7DD071-C9B9-4F4D-86FC-3F2B643F0167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A79027-0CC4-4551-9865-4DEA4506AE3B}
+	EndGlobalSection
+EndGlobal

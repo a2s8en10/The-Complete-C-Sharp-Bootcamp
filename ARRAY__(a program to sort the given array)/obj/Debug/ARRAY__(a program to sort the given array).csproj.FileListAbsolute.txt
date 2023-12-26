@@ -1,0 +1,7 @@
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\obj\Debug\ARRAY__(a program to sort the given array).csproj.AssemblyReference.cache
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\obj\Debug\ARRAY__(a program to sort the given array).csproj.CoreCompileInputs.cache
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\bin\Debug\ARRAY__(a program to sort the given array).exe.config
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\bin\Debug\ARRAY__(a program to sort the given array).exe
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\bin\Debug\ARRAY__(a program to sort the given array).pdb
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\obj\Debug\ARRAY__(a program to sort the given array).exe
+C:\Users\Anurag\source\repos\ARRAY__(a program to sort the given array)\obj\Debug\ARRAY__(a program to sort the given array).pdb
