@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\bin\Debug\For Loop 2.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\bin\Debug\For Loop 2.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\bin\Debug\For Loop 2.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\obj\Debug\For Loop 2.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\obj\Debug\For Loop 2.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\obj\Debug\For Loop 2.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\For Loop 2\obj\Debug\For Loop 2.pdb
