@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\bin\Debug\Palindrome With For Loop.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\bin\Debug\Palindrome With For Loop.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\bin\Debug\Palindrome With For Loop.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\obj\Debug\Palindrome With For Loop.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\obj\Debug\Palindrome With For Loop.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\obj\Debug\Palindrome With For Loop.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Palindrome With For Loop\obj\Debug\Palindrome With For Loop.pdb

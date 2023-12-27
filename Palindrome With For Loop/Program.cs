@@ -10,13 +10,25 @@ namespace Palindrome_With_For_Loop
     {
         static void Main(string[] args)
         {
-            int temp = 121;
-            int sum, num,;
+            int temp = 123;
+            int sum, num,i = 0;
 
-            for (int j = 0; j < 3; j++)
+            for (int j = 1; j <= 3; j++)
             {
                 num = temp % 10;
+                sum = temp / 10;
+                temp = sum;
+                i = i * 10 + num;
             }
+            if (i == temp)
+            {
+                Console.WriteLine("Is Not Palindrome : {0}", i);
+            }
+            else
+            {
+                Console.WriteLine("Is Palindrome : {0}",i);
+            }
+            Console.ReadLine();
         }
     }
 }
