@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\bin\Debug\net5.0\prime numbers.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\bin\Debug\net5.0\prime numbers.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\bin\Debug\net5.0\prime numbers.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\bin\Debug\net5.0\prime numbers.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\bin\Debug\net5.0\prime numbers.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\bin\Debug\net5.0\prime numbers.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\refint\prime numbers.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\prime numbers.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\prime numbers\obj\Debug\net5.0\ref\prime numbers.dll
