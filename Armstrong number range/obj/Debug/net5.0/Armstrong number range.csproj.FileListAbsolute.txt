@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\bin\Debug\net5.0\Armstrong number range.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\bin\Debug\net5.0\Armstrong number range.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\bin\Debug\net5.0\Armstrong number range.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\bin\Debug\net5.0\Armstrong number range.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\bin\Debug\net5.0\Armstrong number range.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\bin\Debug\net5.0\Armstrong number range.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\refint\Armstrong number range.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\Armstrong number range.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong number range\obj\Debug\net5.0\ref\Armstrong number range.dll

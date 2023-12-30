@@ -31,24 +31,31 @@ namespace prime_numbers
             //        Console.Write("{0} ", i);
             //}
 
-            //Console.WriteLine("Check the nmber is prime or not prime....");
-            //Console.WriteLine("Enter the number");
-            //int e = int.Parse(Console.ReadLine());
+            Console.WriteLine("Check the nmber is prime or not prime....");
+            Console.WriteLine("Enter the number");
 
-            //for (int i = 2; i <= i - 1; i++)
-            //{
-            //    if (e % i == 0)
-            //    {
-            //        Console.WriteLine("Its a not prime :");
-            //    }
-            //    else
-            //    {
-            //    Console.WriteLine("Its a prime :");
-            //    }
+            int e = int.Parse(Console.ReadLine());
+            int j = 0;
+            int m = e / 2;
+            for (int i = 2; i <=m; i++)
+            {
 
-
-            
+                if (e % i == 0)
+                {
+                    Console.WriteLine("Its not a prime :");
+                    j++;
+                    break;
+                }
+            }
+            if (j == 0)
+            {
+                Console.WriteLine("Its a prime :", j);
+            }
             Console.ReadLine();
+
         }
+
+
     }
 }
+

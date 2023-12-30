@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\bin\Debug\net5.0\Armstrong.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\bin\Debug\net5.0\Armstrong.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\bin\Debug\net5.0\Armstrong.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\bin\Debug\net5.0\Armstrong.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\bin\Debug\net5.0\Armstrong.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\bin\Debug\net5.0\Armstrong.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\refint\Armstrong.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\Armstrong.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Armstrong\obj\Debug\net5.0\ref\Armstrong.dll

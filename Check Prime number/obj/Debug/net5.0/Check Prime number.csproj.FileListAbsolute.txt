@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\bin\Debug\net5.0\Check Prime number.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\bin\Debug\net5.0\Check Prime number.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\bin\Debug\net5.0\Check Prime number.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\bin\Debug\net5.0\Check Prime number.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\bin\Debug\net5.0\Check Prime number.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\bin\Debug\net5.0\Check Prime number.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\refint\Check Prime number.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\Check Prime number.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Check Prime number\obj\Debug\net5.0\ref\Check Prime number.dll
