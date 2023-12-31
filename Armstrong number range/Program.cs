@@ -10,7 +10,7 @@ namespace Armstrong_number_range
             //int a = int.Parse(Console.ReadLine());
             //int mainA = a;
             int m = 1, n = 1000;
-            int i, k, j, a, sum = 0;
+            int i, k, a, sum = 0;
             
             for (i = m; i <= n; i++)
             {
@@ -18,8 +18,8 @@ namespace Armstrong_number_range
                 while (a != 0)
                 {
                     k = a % 10;
-                    j = a / 10;
-                    a = j;
+                    a = a / 10;
+                   // a = j;
                     sum = k * k * k + sum;
                 }
                 if (sum == i)

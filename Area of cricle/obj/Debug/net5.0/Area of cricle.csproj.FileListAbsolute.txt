@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\bin\Debug\net5.0\Area of cricle.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\bin\Debug\net5.0\Area of cricle.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\bin\Debug\net5.0\Area of cricle.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\bin\Debug\net5.0\Area of cricle.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\bin\Debug\net5.0\Area of cricle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\bin\Debug\net5.0\Area of cricle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\refint\Area of cricle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\Area of cricle.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of cricle\obj\Debug\net5.0\ref\Area of cricle.dll

@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\bin\Debug\net5.0\Greater number.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\bin\Debug\net5.0\Greater number.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\bin\Debug\net5.0\Greater number.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\bin\Debug\net5.0\Greater number.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\bin\Debug\net5.0\Greater number.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\bin\Debug\net5.0\Greater number.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\refint\Greater number.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\Greater number.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Greater number\obj\Debug\net5.0\ref\Greater number.dll

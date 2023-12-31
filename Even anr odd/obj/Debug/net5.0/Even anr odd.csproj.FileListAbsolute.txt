@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\bin\Debug\net5.0\Even anr odd.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\bin\Debug\net5.0\Even anr odd.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\bin\Debug\net5.0\Even anr odd.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\bin\Debug\net5.0\Even anr odd.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\bin\Debug\net5.0\Even anr odd.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\bin\Debug\net5.0\Even anr odd.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\refint\Even anr odd.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\Even anr odd.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Even anr odd\obj\Debug\net5.0\ref\Even anr odd.dll

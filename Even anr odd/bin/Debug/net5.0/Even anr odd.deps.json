@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Even anr odd/1.0.0": {
+        "runtime": {
+          "Even anr odd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even anr odd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

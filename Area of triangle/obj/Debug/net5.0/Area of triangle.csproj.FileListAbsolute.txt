@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\bin\Debug\net5.0\Area of triangle.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\bin\Debug\net5.0\Area of triangle.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\bin\Debug\net5.0\Area of triangle.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\bin\Debug\net5.0\Area of triangle.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\bin\Debug\net5.0\Area of triangle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\bin\Debug\net5.0\Area of triangle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\refint\Area of triangle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\Area of triangle.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Area of triangle\obj\Debug\net5.0\ref\Area of triangle.dll

@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\bin\Debug\net5.0\count number digits.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\bin\Debug\net5.0\count number digits.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\bin\Debug\net5.0\count number digits.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\bin\Debug\net5.0\count number digits.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\bin\Debug\net5.0\count number digits.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\bin\Debug\net5.0\count number digits.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\refint\count number digits.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\count number digits.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\count number digits\obj\Debug\net5.0\ref\count number digits.dll

@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\bin\Debug\net5.0\Voting machine.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\bin\Debug\net5.0\Voting machine.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\bin\Debug\net5.0\Voting machine.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\bin\Debug\net5.0\Voting machine.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\bin\Debug\net5.0\Voting machine.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\bin\Debug\net5.0\Voting machine.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\refint\Voting machine.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\Voting machine.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Voting machine\obj\Debug\net5.0\ref\Voting machine.dll
