@@ -15,12 +15,14 @@ namespace Palindrome_With_For_Loop
 
             int sum, num, g, i = 0;
             g = temp;
+
             for (int j = 1; j <= 3; j++)
             {
                 num = temp % 10;
                 sum = temp / 10;
                 temp = sum;
                 i = i * 10 + num;
+               
             }
             if (i == g)
             {

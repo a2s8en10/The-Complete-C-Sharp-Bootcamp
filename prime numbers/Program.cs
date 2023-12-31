@@ -7,49 +7,51 @@ namespace prime_numbers
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Enter the starting number : ");
-            //int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the starting number : ");
+            int a = int.Parse(Console.ReadLine());
 
-            //Console.WriteLine("Enter the Ending number : ");
-            //int b = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the Ending number : ");
+            int b = int.Parse(Console.ReadLine());
 
-            //for (int i = a; i <= b; i++)
-            //{
-            //    int c = 0;
+            for (int i = a; i <= b; i++)    // starting to Ending 
+            {
+                int c = 0;
 
-            //    for (int j = 2; j <= i / 2; j++)
-            //    {
-            //        if (i % j == 0)
-            //        {
-            //            c++;
-            //            break;
-            //        }
-            //    }
+                for (int j = 2; j <= i-1; j++)  // Check the prime or not 
+                {
+                    if (i % j == 0)
+                    {
+                        c++;
+                        break;
+                    }
+                }
 
-            //    if (c == 0 && i != 1)
+                if (c == 0)
 
-            //        Console.Write("{0} ", i);
-            //}
-
-            Console.WriteLine("Check the nmber is prime or not prime....");
+                    Console.Write("{0} ", i);
+            }
+            Console.WriteLine();
+            Console.WriteLine("Check the number is prime or not prime....");
             Console.WriteLine("Enter the number");
 
             int e = int.Parse(Console.ReadLine());
-            int j = 0;
-            int m = e / 2;
-            for (int i = 2; i <=m; i++)
+            int h = 0;
+
+            for (int i = 2; i <= e - 1; i++)
             {
 
                 if (e % i == 0)
                 {
-                    Console.WriteLine("Its not a prime :");
-                    j++;
-                    break;
+                    h++;
                 }
             }
-            if (j == 0)
+            if (h == 0)
             {
-                Console.WriteLine("Its a prime :", j);
+                Console.WriteLine("Its a prime ");
+            }
+            else
+            {
+                Console.WriteLine("Its not a prime");
             }
             Console.ReadLine();
 
