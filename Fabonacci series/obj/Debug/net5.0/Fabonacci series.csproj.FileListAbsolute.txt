@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\bin\Debug\net5.0\Fabonacci series.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\bin\Debug\net5.0\Fabonacci series.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\bin\Debug\net5.0\Fabonacci series.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\bin\Debug\net5.0\Fabonacci series.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\bin\Debug\net5.0\Fabonacci series.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\bin\Debug\net5.0\Fabonacci series.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\refint\Fabonacci series.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\Fabonacci series.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Fabonacci series\obj\Debug\net5.0\ref\Fabonacci series.dll
