@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\bin\Debug\net5.0\right angle triangle pattern.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\bin\Debug\net5.0\right angle triangle pattern.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\bin\Debug\net5.0\right angle triangle pattern.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\bin\Debug\net5.0\right angle triangle pattern.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\bin\Debug\net5.0\right angle triangle pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\bin\Debug\net5.0\right angle triangle pattern.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\refint\right angle triangle pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\right angle triangle pattern.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\right angle triangle pattern\obj\Debug\net5.0\ref\right angle triangle pattern.dll

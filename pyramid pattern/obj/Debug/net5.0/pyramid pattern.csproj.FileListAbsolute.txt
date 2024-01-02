@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\bin\Debug\net5.0\pyramid pattern.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\bin\Debug\net5.0\pyramid pattern.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\bin\Debug\net5.0\pyramid pattern.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\bin\Debug\net5.0\pyramid pattern.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\bin\Debug\net5.0\pyramid pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\bin\Debug\net5.0\pyramid pattern.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\refint\pyramid pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\pyramid pattern.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern\obj\Debug\net5.0\ref\pyramid pattern.dll

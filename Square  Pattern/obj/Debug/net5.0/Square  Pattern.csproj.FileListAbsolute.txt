@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\bin\Debug\net5.0\Square  Pattern.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\bin\Debug\net5.0\Square  Pattern.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\bin\Debug\net5.0\Square  Pattern.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\bin\Debug\net5.0\Square  Pattern.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\bin\Debug\net5.0\Square  Pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\bin\Debug\net5.0\Square  Pattern.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\refint\Square  Pattern.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\Square  Pattern.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Square  Pattern\obj\Debug\net5.0\ref\Square  Pattern.dll
