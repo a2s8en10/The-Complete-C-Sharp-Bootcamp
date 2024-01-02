@@ -13,16 +13,13 @@ namespace Palindrome_With_For_Loop
             Console.Write("Enter the number : ");
             int temp = int.Parse(Console.ReadLine());
 
-            int sum, num, g,t, count = 1, i = 0;
+            int sum, num, g, i = 0;
             g = temp;
-            t = temp;
-            for (int j = 1; j <=count; j++)
+            string value = temp.ToString();
+            int b = value.Length;
+
+            for (int j = 1; j <= b; j++)
             {
-                while (t > 0)
-                {
-                    count++;
-                    t = t / 10;
-                }
                 num = temp % 10;
                 sum = temp / 10;
                 temp = sum;
