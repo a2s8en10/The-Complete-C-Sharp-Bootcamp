@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "left side  pyramid pattren/1.0.0": {
+        "runtime": {
+          "left side  pyramid pattren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "left side  pyramid pattren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
