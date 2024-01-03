@@ -13,11 +13,11 @@ namespace pyramid_pattern_reverse
 
             for (int i = 1; i <= a; i++)
             {
-                //for (int k = spac; k <= a; k++)
-                //{
-                //    Console.Write(" ");
-                //}
-                for (int j = a; j <= i; j++)
+                for (int k = spac; k <= a; k++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = i; j <= a; j++)
                 {
                     Console.Write("* ");
                 }
