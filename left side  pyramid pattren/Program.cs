@@ -6,10 +6,11 @@ namespace left_side__pyramid_pattren
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Enter the number : ");
-            //int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("enter the number : ");
+           
+            int a = int.Parse(Console.ReadLine());
 
-            int a = 5;
+            /*int a = 5;*/
             int s = a / 2 + 1;
 
             for (int i = 1; i <= s; i++)
