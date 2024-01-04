@@ -6,23 +6,27 @@ namespace left_side__pyramid_pattren
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Enter the number : ");
-            int a = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the number : ");
+            //int a = int.Parse(Console.ReadLine());
 
-            int spac = 1;
+            int a = 5;
+            int s = a / 2 + 1;
 
-            for (int i = 1; i <= a; i++)
+            for (int i = 1; i <= s; i++)
             {
-                for (int k = spac; k <= a; k++)
-                {
-                    Console.Write(" ");
-                }
-                for (int j = i; j <= a; j++)
+                for (int j = 1; j <= i; j++)
                 {
                     Console.Write("* ");
                 }
                 Console.WriteLine();
-                spac--;
+            }
+            for (int i = 1; i <= s; i++)
+            {
+                for (int j = i; j <= s - 1; j++)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
             }
             Console.ReadLine();
         }
