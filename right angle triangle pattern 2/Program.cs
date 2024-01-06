@@ -21,3 +21,20 @@ namespace right_angle_triangle_pattern_2
         }
     }
 }
+
+//intput is : 5
+//output is : 
+                //* * * * *
+                //* * * *
+                //* * * 
+                //* *
+                //*
+
+
+
+
+
+
+
+
+

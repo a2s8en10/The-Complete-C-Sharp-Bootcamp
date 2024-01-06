@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\bin\Debug\net5.0\Right side pyramid.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\bin\Debug\net5.0\Right side pyramid.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\bin\Debug\net5.0\Right side pyramid.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\bin\Debug\net5.0\Right side pyramid.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\bin\Debug\net5.0\Right side pyramid.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\bin\Debug\net5.0\Right side pyramid.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\refint\Right side pyramid.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\Right side pyramid.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Right side pyramid\obj\Debug\net5.0\ref\Right side pyramid.dll
