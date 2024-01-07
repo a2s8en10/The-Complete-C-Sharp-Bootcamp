@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "a program to input a string through the keyboard and print the same/1.0.0": {
+        "runtime": {
+          "a program to input a string through the keyboard and print the same.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a program to input a string through the keyboard and print the same/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
