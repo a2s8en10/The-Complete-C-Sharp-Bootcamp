@@ -24,7 +24,7 @@ namespace a_program_to_find_the_sum_of_negative_and_positive_integers
                 sum = sum + item;
             }
 
-            if (sum > 0)
+            if (sum >= 0)
             {
                 Console.WriteLine("positive integers : {0}", sum);
             }
