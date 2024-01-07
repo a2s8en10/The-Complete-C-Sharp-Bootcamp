@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\bin\Debug\net5.0\A program to find the smallest element in the array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\bin\Debug\net5.0\A program to find the smallest element in the array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\bin\Debug\net5.0\A program to find the smallest element in the array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\bin\Debug\net5.0\A program to find the smallest element in the array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\bin\Debug\net5.0\A program to find the smallest element in the array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\bin\Debug\net5.0\A program to find the smallest element in the array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\refint\A program to find the smallest element in the array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\A program to find the smallest element in the array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to find the smallest element in the array\obj\Debug\net5.0\ref\A program to find the smallest element in the array.dll
