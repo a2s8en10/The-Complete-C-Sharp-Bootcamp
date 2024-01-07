@@ -9,7 +9,7 @@ namespace A_program_to_find_the_sum_of_N_numbers_in_an_array
             Console.Write("Enter the length of array : ");
             int a = int.Parse(Console.ReadLine());
             int[] num = new int[a];
-            int sum = 0;
+            int sum = 0; 
             for (int i = 0; i < a; i++)
             {
                 int b = int.Parse(Console.ReadLine());
