@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>a_program_to_print_the_average_marks_obtained_by_a_student_in_five_tests</RootNamespace>
+  </PropertyGroup>
+
+</Project>
