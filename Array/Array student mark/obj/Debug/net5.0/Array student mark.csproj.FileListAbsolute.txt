@@ -1,0 +1,15 @@
+D:\Hosting\Array\Array student mark\bin\Debug\net5.0\Array student mark.exe
+D:\Hosting\Array\Array student mark\bin\Debug\net5.0\Array student mark.deps.json
+D:\Hosting\Array\Array student mark\bin\Debug\net5.0\Array student mark.runtimeconfig.json
+D:\Hosting\Array\Array student mark\bin\Debug\net5.0\Array student mark.runtimeconfig.dev.json
+D:\Hosting\Array\Array student mark\bin\Debug\net5.0\Array student mark.dll
+D:\Hosting\Array\Array student mark\bin\Debug\net5.0\Array student mark.pdb
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.AssemblyInfoInputs.cache
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.AssemblyInfo.cs
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.csproj.CoreCompileInputs.cache
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.dll
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\refint\Array student mark.dll
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.pdb
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\Array student mark.genruntimeconfig.cache
+D:\Hosting\Array\Array student mark\obj\Debug\net5.0\ref\Array student mark.dll
