@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\bin\Debug\net5.0\a program to find the sum of negative and positive integers.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\bin\Debug\net5.0\a program to find the sum of negative and positive integers.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\bin\Debug\net5.0\a program to find the sum of negative and positive integers.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\bin\Debug\net5.0\a program to find the sum of negative and positive integers.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\bin\Debug\net5.0\a program to find the sum of negative and positive integers.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\bin\Debug\net5.0\a program to find the sum of negative and positive integers.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\refint\a program to find the sum of negative and positive integers.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\a program to find the sum of negative and positive integers.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\a program to find the sum of negative and positive integers\obj\Debug\net5.0\ref\a program to find the sum of negative and positive integers.dll

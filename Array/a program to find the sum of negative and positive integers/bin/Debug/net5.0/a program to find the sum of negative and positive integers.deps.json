@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "a program to find the sum of negative and positive integers/1.0.0": {
+        "runtime": {
+          "a program to find the sum of negative and positive integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a program to find the sum of negative and positive integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
