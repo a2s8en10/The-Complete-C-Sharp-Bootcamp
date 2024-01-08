@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\bin\Debug\net5.0\A program to print array elements in reverse order..exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\bin\Debug\net5.0\A program to print array elements in reverse order..deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\bin\Debug\net5.0\A program to print array elements in reverse order..runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\bin\Debug\net5.0\A program to print array elements in reverse order..runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\bin\Debug\net5.0\A program to print array elements in reverse order..dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\bin\Debug\net5.0\A program to print array elements in reverse order..pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\refint\A program to print array elements in reverse order..dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\A program to print array elements in reverse order..genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to print array elements in reverse order\obj\Debug\net5.0\ref\A program to print array elements in reverse order..dll
