@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A program to Print the Average of Numbers in array at an even position/1.0.0": {
+        "runtime": {
+          "A program to Print the Average of Numbers in array at an even position.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A program to Print the Average of Numbers in array at an even position/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
