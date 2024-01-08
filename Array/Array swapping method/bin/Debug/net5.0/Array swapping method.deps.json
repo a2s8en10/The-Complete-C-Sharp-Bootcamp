@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Array swapping method/1.0.0": {
+        "runtime": {
+          "Array swapping method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array swapping method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

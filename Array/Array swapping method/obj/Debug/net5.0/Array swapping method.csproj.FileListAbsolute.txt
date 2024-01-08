@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\bin\Debug\net5.0\Array swapping method.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\bin\Debug\net5.0\Array swapping method.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\bin\Debug\net5.0\Array swapping method.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\bin\Debug\net5.0\Array swapping method.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\bin\Debug\net5.0\Array swapping method.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\bin\Debug\net5.0\Array swapping method.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\refint\Array swapping method.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\Array swapping method.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Array swapping method\obj\Debug\net5.0\ref\Array swapping method.dll
