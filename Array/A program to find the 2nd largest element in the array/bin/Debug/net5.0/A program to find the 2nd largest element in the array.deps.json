@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A program to find the 2nd largest element in the array/1.0.0": {
+        "runtime": {
+          "A program to find the 2nd largest element in the array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A program to find the 2nd largest element in the array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
