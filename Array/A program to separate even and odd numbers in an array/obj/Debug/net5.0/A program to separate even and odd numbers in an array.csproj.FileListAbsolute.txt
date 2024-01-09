@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\bin\Debug\net5.0\A program to separate even and odd numbers in an array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\bin\Debug\net5.0\A program to separate even and odd numbers in an array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\bin\Debug\net5.0\A program to separate even and odd numbers in an array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\bin\Debug\net5.0\A program to separate even and odd numbers in an array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\bin\Debug\net5.0\A program to separate even and odd numbers in an array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\bin\Debug\net5.0\A program to separate even and odd numbers in an array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\refint\A program to separate even and odd numbers in an array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\A program to separate even and odd numbers in an array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to separate even and odd numbers in an array\obj\Debug\net5.0\ref\A program to separate even and odd numbers in an array.dll

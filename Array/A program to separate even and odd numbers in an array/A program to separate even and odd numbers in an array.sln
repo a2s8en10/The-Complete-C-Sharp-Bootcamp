@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A program to separate even and odd numbers in an array", "A program to separate even and odd numbers in an array.csproj", "{E4721E0E-D89A-4377-9110-B2725690C6E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4721E0E-D89A-4377-9110-B2725690C6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4721E0E-D89A-4377-9110-B2725690C6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4721E0E-D89A-4377-9110-B2725690C6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4721E0E-D89A-4377-9110-B2725690C6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDCD580-9910-42D5-9DA5-6397470DDF0A}
+	EndGlobalSection
+EndGlobal
