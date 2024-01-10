@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\bin\Debug\net5.0\A program to count distinct elements of an array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\bin\Debug\net5.0\A program to count distinct elements of an array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\bin\Debug\net5.0\A program to count distinct elements of an array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\bin\Debug\net5.0\A program to count distinct elements of an array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\bin\Debug\net5.0\A program to count distinct elements of an array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\bin\Debug\net5.0\A program to count distinct elements of an array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\refint\A program to count distinct elements of an array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\A program to count distinct elements of an array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to count distinct elements of an array\obj\Debug\net5.0\ref\A program to count distinct elements of an array.dll
