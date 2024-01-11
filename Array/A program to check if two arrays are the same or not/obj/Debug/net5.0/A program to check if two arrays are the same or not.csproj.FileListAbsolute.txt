@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\bin\Debug\net5.0\A program to check if two arrays are the same or not.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\bin\Debug\net5.0\A program to check if two arrays are the same or not.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\bin\Debug\net5.0\A program to check if two arrays are the same or not.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\bin\Debug\net5.0\A program to check if two arrays are the same or not.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\bin\Debug\net5.0\A program to check if two arrays are the same or not.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\bin\Debug\net5.0\A program to check if two arrays are the same or not.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\refint\A program to check if two arrays are the same or not.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\A program to check if two arrays are the same or not.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A program to check if two arrays are the same or not\obj\Debug\net5.0\ref\A program to check if two arrays are the same or not.dll
