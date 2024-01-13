@@ -16,15 +16,15 @@ namespace the_smallest_element_in_the_array
             int a = 0;
             for (int i = 0; i < num.Length; i++)
             {
-                for (int j = i + 1; j < num.Length - 1; j++)
+                for (int j = 0; j < num.Length - 1; j++)
                 {
-                    if (num[i] > num[j])
+                    if (num[j] > num[j+1])
                     {
-                        a = num[j];
+                        a = num[j+1];
 
-                        num[j] = num[i];
+                        num[j + 1] = num[j];
 
-                        num[i] = a;
+                        num[j] = a;
                     }
                 }
                
