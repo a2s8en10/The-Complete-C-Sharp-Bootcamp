@@ -10,16 +10,22 @@ namespace A_program_to_insert_an_element_into_an_array_at_a_specified_position
             int a = int.Parse(Console.ReadLine());
             int[] num = new int[a];
 
-
+            Console.Write("Enter the Element :");
             for (int i = 0; i < num.Length; i++)
             {
-                Console.Write("Enter the index number :");
-                int p = int.Parse(Console.ReadLine());
+                //Console.Write("Enter the index number :");
+                //int p = int.Parse(Console.ReadLine());
 
-                Console.Write("Enter the Element :");
                 int j = int.Parse(Console.ReadLine());
-                num[p] = j;
+                num[i] = j;
             }
+
+            Console.Write("Enter the index number :");
+            int p = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter the Element :");
+            int q = int.Parse(Console.ReadLine());
+            num[p] = q;
 
 
             Console.WriteLine("Your data :");
