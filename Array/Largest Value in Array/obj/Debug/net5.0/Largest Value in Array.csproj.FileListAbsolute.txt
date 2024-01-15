@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\bin\Debug\net5.0\Largest Value in Array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\bin\Debug\net5.0\Largest Value in Array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\bin\Debug\net5.0\Largest Value in Array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\bin\Debug\net5.0\Largest Value in Array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\bin\Debug\net5.0\Largest Value in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\bin\Debug\net5.0\Largest Value in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\refint\Largest Value in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\Largest Value in Array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Largest Value in Array\obj\Debug\net5.0\ref\Largest Value in Array.dll
