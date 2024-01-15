@@ -16,16 +16,26 @@ namespace A_program_to_sort_the_elements_of_an_array
                 int b = int.Parse(Console.ReadLine());
                 num[i] = b;
             }
-            Array.Sort(num);
-            Console.WriteLine("sort the elements of an array.....");
 
-            foreach (int i in num)
+            int temp;
+            for (int i = 0; i < a; i++)
             {
-                Console.WriteLine(i);
+                for (int j = 0; j < a - 1; j++)
+                {
+                    if (num[j] > num[j + 1])
+                    {
+                        temp = num[j];
+                        num[j] = num[j + 1];
+                        num[j + 1] = temp;
+                    }
+                }
             }
 
-
-
+            Console.WriteLine("sort the elements of an array : ");
+            for (int i = 0; i < num.Length; i++)
+            {
+                Console.WriteLine(num[i]);
+            }
 
         }
     }

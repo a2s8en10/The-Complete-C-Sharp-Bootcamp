@@ -6,9 +6,11 @@ namespace A_program_to_search_a_specified_integer_in_an_array
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the lrmgth of Array : ");
+            Console.Write("Enter the length of Array : ");
             int a = int.Parse(Console.ReadLine());
+
             int[] num = new int[a];
+            Console.WriteLine("Enter the number:");
 
             for (int i = 0; i < num.Length; i++)
             {
