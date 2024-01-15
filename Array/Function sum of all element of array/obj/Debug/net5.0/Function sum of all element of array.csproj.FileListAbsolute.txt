@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\bin\Debug\net5.0\Function sum of all element of array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\bin\Debug\net5.0\Function sum of all element of array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\bin\Debug\net5.0\Function sum of all element of array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\bin\Debug\net5.0\Function sum of all element of array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\bin\Debug\net5.0\Function sum of all element of array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\bin\Debug\net5.0\Function sum of all element of array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\refint\Function sum of all element of array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\Function sum of all element of array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Function sum of all element of array\obj\Debug\net5.0\ref\Function sum of all element of array.dll

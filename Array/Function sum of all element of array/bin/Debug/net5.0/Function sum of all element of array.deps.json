@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Function sum of all element of array/1.0.0": {
+        "runtime": {
+          "Function sum of all element of array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Function sum of all element of array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
