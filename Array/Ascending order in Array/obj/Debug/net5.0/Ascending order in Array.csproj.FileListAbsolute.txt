@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\bin\Debug\net5.0\Ascending order in Array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\bin\Debug\net5.0\Ascending order in Array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\bin\Debug\net5.0\Ascending order in Array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\bin\Debug\net5.0\Ascending order in Array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\bin\Debug\net5.0\Ascending order in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\bin\Debug\net5.0\Ascending order in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\refint\Ascending order in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\Ascending order in Array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Ascending order in Array\obj\Debug\net5.0\ref\Ascending order in Array.dll

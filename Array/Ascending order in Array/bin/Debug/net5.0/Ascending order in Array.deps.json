@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ascending order in Array/1.0.0": {
+        "runtime": {
+          "Ascending order in Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ascending order in Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
