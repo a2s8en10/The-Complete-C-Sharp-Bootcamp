@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\bin\Debug\net5.0\Smallest number in Array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\bin\Debug\net5.0\Smallest number in Array.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\bin\Debug\net5.0\Smallest number in Array.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\bin\Debug\net5.0\Smallest number in Array.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\bin\Debug\net5.0\Smallest number in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\bin\Debug\net5.0\Smallest number in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\refint\Smallest number in Array.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\Smallest number in Array.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Smallest number in Array\obj\Debug\net5.0\ref\Smallest number in Array.dll
