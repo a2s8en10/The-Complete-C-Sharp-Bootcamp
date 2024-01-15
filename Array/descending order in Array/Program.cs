@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ascending_order_in_Array
+namespace descending_order_in_Array
 {
     class Func
     {
@@ -26,22 +26,21 @@ namespace Ascending_order_in_Array
 
             }
 
-            Console.WriteLine("Ascending is ");
-            for (int i = 0; i < 5; i++)
+            Console.WriteLine("descending is ");
+            for (int i = 4; i >= 0; i--)
             {
                 Console.WriteLine(num[i]);
             }
         }
     }
-
-
     internal class Program
     {
         static void Main(string[] args)
         {
             Func func = new Func();
             func.asc();
-            Console.ReadLine();
+            Console.WriteLine();
+
         }
     }
 }
