@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\bin\Debug\net5.0\A Program to Sort an array in Descending order..exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\bin\Debug\net5.0\A Program to Sort an array in Descending order..deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\bin\Debug\net5.0\A Program to Sort an array in Descending order..runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\bin\Debug\net5.0\A Program to Sort an array in Descending order..runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\bin\Debug\net5.0\A Program to Sort an array in Descending order..dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\bin\Debug\net5.0\A Program to Sort an array in Descending order..pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\refint\A Program to Sort an array in Descending order..dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\A Program to Sort an array in Descending order..genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\A Program to Sort an array in Descending order\obj\Debug\net5.0\ref\A Program to Sort an array in Descending order..dll

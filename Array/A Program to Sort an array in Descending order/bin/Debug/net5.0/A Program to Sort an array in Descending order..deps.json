@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A Program to Sort an array in Descending order./1.0.0": {
+        "runtime": {
+          "A Program to Sort an array in Descending order..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A Program to Sort an array in Descending order./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
