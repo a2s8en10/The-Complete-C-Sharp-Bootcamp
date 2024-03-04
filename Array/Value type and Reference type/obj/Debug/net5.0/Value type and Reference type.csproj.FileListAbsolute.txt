@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\bin\Debug\net5.0\Value type and Reference type.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\bin\Debug\net5.0\Value type and Reference type.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\bin\Debug\net5.0\Value type and Reference type.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\bin\Debug\net5.0\Value type and Reference type.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\bin\Debug\net5.0\Value type and Reference type.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\bin\Debug\net5.0\Value type and Reference type.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\refint\Value type and Reference type.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\Value type and Reference type.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Value type and Reference type\obj\Debug\net5.0\ref\Value type and Reference type.dll
