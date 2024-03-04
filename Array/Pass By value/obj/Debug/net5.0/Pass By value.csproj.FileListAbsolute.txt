@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\bin\Debug\net5.0\Pass By value.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\bin\Debug\net5.0\Pass By value.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\bin\Debug\net5.0\Pass By value.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\bin\Debug\net5.0\Pass By value.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\bin\Debug\net5.0\Pass By value.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\bin\Debug\net5.0\Pass By value.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\refint\Pass By value.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\Pass By value.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By value\obj\Debug\net5.0\ref\Pass By value.dll

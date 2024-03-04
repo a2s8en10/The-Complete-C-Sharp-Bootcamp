@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\bin\Debug\net5.0\Pass By Reference.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\bin\Debug\net5.0\Pass By Reference.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\bin\Debug\net5.0\Pass By Reference.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\bin\Debug\net5.0\Pass By Reference.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\bin\Debug\net5.0\Pass By Reference.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\bin\Debug\net5.0\Pass By Reference.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\refint\Pass By Reference.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\Pass By Reference.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Pass By Reference\obj\Debug\net5.0\ref\Pass By Reference.dll
