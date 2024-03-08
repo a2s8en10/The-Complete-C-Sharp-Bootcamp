@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\bin\Debug\net5.0\Static_classs.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\bin\Debug\net5.0\Static_classs.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\bin\Debug\net5.0\Static_classs.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\bin\Debug\net5.0\Static_classs.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\bin\Debug\net5.0\Static_classs.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\bin\Debug\net5.0\Static_classs.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\refint\Static_classs.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\Static_classs.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Static_classs\obj\Debug\net5.0\ref\Static_classs.dll
