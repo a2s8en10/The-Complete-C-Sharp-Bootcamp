@@ -24,7 +24,7 @@ namespace Single_inheritance
             driveclass sub = new driveclass();
             sub.show1();
             sub.show2();
-            Console.ReadLine();s
+            Console.ReadLine();
         }
     }
 }

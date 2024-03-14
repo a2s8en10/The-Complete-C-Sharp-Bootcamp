@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\bin\Debug\net5.0\HIERARCHICAL inheritance.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\bin\Debug\net5.0\HIERARCHICAL inheritance.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\bin\Debug\net5.0\HIERARCHICAL inheritance.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\bin\Debug\net5.0\HIERARCHICAL inheritance.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\bin\Debug\net5.0\HIERARCHICAL inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\bin\Debug\net5.0\HIERARCHICAL inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\refint\HIERARCHICAL inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\HIERARCHICAL inheritance.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\HIERARCHICAL inheritance\obj\Debug\net5.0\ref\HIERARCHICAL inheritance.dll
