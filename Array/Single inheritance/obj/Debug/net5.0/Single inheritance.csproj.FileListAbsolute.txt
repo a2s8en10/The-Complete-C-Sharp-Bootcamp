@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\bin\Debug\net5.0\Single inheritance.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\bin\Debug\net5.0\Single inheritance.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\bin\Debug\net5.0\Single inheritance.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\bin\Debug\net5.0\Single inheritance.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\bin\Debug\net5.0\Single inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\bin\Debug\net5.0\Single inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\refint\Single inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\Single inheritance.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Single inheritance\obj\Debug\net5.0\ref\Single inheritance.dll
