@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\bin\Debug\net5.0\Multi-level inheritance.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\bin\Debug\net5.0\Multi-level inheritance.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\bin\Debug\net5.0\Multi-level inheritance.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\bin\Debug\net5.0\Multi-level inheritance.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\bin\Debug\net5.0\Multi-level inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\bin\Debug\net5.0\Multi-level inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\refint\Multi-level inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\Multi-level inheritance.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Multi-level inheritance\obj\Debug\net5.0\ref\Multi-level inheritance.dll

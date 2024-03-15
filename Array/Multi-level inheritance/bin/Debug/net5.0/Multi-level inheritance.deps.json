@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Multi-level inheritance/1.0.0": {
+        "runtime": {
+          "Multi-level inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multi-level inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
