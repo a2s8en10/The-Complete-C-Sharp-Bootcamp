@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\bin\Debug\net5.0\Constructor Inheritance.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\bin\Debug\net5.0\Constructor Inheritance.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\bin\Debug\net5.0\Constructor Inheritance.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\bin\Debug\net5.0\Constructor Inheritance.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\bin\Debug\net5.0\Constructor Inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\bin\Debug\net5.0\Constructor Inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\refint\Constructor Inheritance.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\Constructor Inheritance.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Constructor Inheritance\obj\Debug\net5.0\ref\Constructor Inheritance.dll
