@@ -17,7 +17,7 @@ namespace Multi_level_inheritance
         }
 
     }
-    class driveclass : intermediateclass
+    class driveclass1 : intermediateclass
     { 
         public void show3()
         {
@@ -38,11 +38,16 @@ namespace Multi_level_inheritance
             //sub1.show1();
             //sub1.show2();
 
-            driveclass sub3 = new driveclass();
+            //driveclass1 sub3 = new driveclass1();
+            //sub3.show1();
+            //sub3.show2();
+            //sub3.show3();
+
+            driveclass2 sub3 = new driveclass2();
             sub3.show1();
             sub3.show2();
             sub3.show3();
-
+            sub3.sub();
             Console.ReadLine();
         }
     }
