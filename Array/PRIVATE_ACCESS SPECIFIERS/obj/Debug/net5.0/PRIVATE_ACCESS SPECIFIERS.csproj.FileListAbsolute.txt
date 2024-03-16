@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\bin\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\bin\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\bin\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\bin\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\bin\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\bin\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\refint\PRIVATE_ACCESS SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\PRIVATE_ACCESS SPECIFIERS.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PRIVATE_ACCESS SPECIFIERS\obj\Debug\net5.0\ref\PRIVATE_ACCESS SPECIFIERS.dll

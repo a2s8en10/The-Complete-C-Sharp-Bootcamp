@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PRIVATE_ACCESS SPECIFIERS/1.0.0": {
+        "runtime": {
+          "PRIVATE_ACCESS SPECIFIERS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRIVATE_ACCESS SPECIFIERS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
