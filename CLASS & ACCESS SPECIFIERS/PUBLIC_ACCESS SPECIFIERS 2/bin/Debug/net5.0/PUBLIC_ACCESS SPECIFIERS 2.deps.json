@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PUBLIC_ACCESS SPECIFIERS 2/1.0.0": {
+        "runtime": {
+          "PUBLIC_ACCESS SPECIFIERS 2.dll": {}
+        }
+      },
+      "PUBLIC_ACCESS SPECIFIERS 1/1.0.0": {
+        "runtime": {
+          "PUBLIC_ACCESS SPECIFIERS 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PUBLIC_ACCESS SPECIFIERS 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PUBLIC_ACCESS SPECIFIERS 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

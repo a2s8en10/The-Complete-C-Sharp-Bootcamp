@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\bin\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\bin\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\bin\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\bin\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\bin\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\bin\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\refint\PUBLIC_ACCESS SPECIFIERS 1.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\PUBLIC_ACCESS SPECIFIERS 1.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\ACCESS SPECIFIERS 1\obj\Debug\net5.0\ref\PUBLIC_ACCESS SPECIFIERS 1.dll
