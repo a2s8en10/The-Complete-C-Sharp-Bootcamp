@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\bin\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\bin\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\bin\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\bin\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\bin\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\bin\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\refint\INTERNAL_ACCESS_SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\INTERNAL_ACCESS_SPECIFIERS.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\INTERNAL_ACCESS_SPECIFIERS\obj\Debug\net5.0\ref\INTERNAL_ACCESS_SPECIFIERS.dll
