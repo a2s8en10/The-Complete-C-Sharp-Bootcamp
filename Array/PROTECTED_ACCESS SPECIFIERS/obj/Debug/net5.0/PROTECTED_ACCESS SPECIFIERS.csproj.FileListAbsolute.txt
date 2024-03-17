@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\bin\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\bin\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\bin\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\bin\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\bin\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\bin\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\refint\PROTECTED_ACCESS SPECIFIERS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\PROTECTED_ACCESS SPECIFIERS.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\PROTECTED_ACCESS SPECIFIERS\obj\Debug\net5.0\ref\PROTECTED_ACCESS SPECIFIERS.dll

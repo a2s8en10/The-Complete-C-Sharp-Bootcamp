@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROTECTED_ACCESS SPECIFIERS", "PROTECTED_ACCESS SPECIFIERS.csproj", "{C9ED3394-7320-415C-AB5E-2ED6B6E89DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROTECTED_ACCESS SPECIFIERS 2", "..\PROTECTED_ACCESS SPECIFIERS 2\PROTECTED_ACCESS SPECIFIERS 2.csproj", "{9F2B9285-DE36-4C7D-B4A1-A04B4D8325AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9ED3394-7320-415C-AB5E-2ED6B6E89DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ED3394-7320-415C-AB5E-2ED6B6E89DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ED3394-7320-415C-AB5E-2ED6B6E89DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ED3394-7320-415C-AB5E-2ED6B6E89DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2B9285-DE36-4C7D-B4A1-A04B4D8325AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2B9285-DE36-4C7D-B4A1-A04B4D8325AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2B9285-DE36-4C7D-B4A1-A04B4D8325AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2B9285-DE36-4C7D-B4A1-A04B4D8325AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A3A342-7B8C-4563-BD71-FD31410F5CBF}
+	EndGlobalSection
+EndGlobal

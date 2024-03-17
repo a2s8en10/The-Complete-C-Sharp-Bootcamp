@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PROTECTED_ACCESS SPECIFIERS 2/1.0.0": {
+        "runtime": {
+          "PROTECTED_ACCESS SPECIFIERS 2.dll": {}
+        }
+      },
+      "PROTECTED_ACCESS SPECIFIERS/1.0.0": {
+        "runtime": {
+          "PROTECTED_ACCESS SPECIFIERS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROTECTED_ACCESS SPECIFIERS 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PROTECTED_ACCESS SPECIFIERS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
