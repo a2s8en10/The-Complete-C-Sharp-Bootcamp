@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\bin\Debug\net5.0\Properties With Set And Get.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\bin\Debug\net5.0\Properties With Set And Get.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\bin\Debug\net5.0\Properties With Set And Get.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\bin\Debug\net5.0\Properties With Set And Get.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\bin\Debug\net5.0\Properties With Set And Get.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\bin\Debug\net5.0\Properties With Set And Get.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\refint\Properties With Set And Get.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\Properties With Set And Get.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Array\Properties With Set And Get\obj\Debug\net5.0\ref\Properties With Set And Get.dll
