@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\bin\Debug\net5.0\SEALED CLASS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\bin\Debug\net5.0\SEALED CLASS.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\bin\Debug\net5.0\SEALED CLASS.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\bin\Debug\net5.0\SEALED CLASS.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\bin\Debug\net5.0\SEALED CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\bin\Debug\net5.0\SEALED CLASS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\refint\SEALED CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\SEALED CLASS.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED CLASS\obj\Debug\net5.0\ref\SEALED CLASS.dll
