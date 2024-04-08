@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\bin\Debug\net5.0\SEALED METHOD.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\bin\Debug\net5.0\SEALED METHOD.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\bin\Debug\net5.0\SEALED METHOD.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\bin\Debug\net5.0\SEALED METHOD.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\bin\Debug\net5.0\SEALED METHOD.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\bin\Debug\net5.0\SEALED METHOD.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\refint\SEALED METHOD.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\SEALED METHOD.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SEALED METHOD\obj\Debug\net5.0\ref\SEALED METHOD.dll
