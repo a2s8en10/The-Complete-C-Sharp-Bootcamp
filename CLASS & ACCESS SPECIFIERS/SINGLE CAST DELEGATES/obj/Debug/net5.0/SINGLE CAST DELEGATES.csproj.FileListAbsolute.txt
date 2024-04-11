@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\bin\Debug\net5.0\SINGLE CAST DELEGATES.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\bin\Debug\net5.0\SINGLE CAST DELEGATES.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\bin\Debug\net5.0\SINGLE CAST DELEGATES.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\bin\Debug\net5.0\SINGLE CAST DELEGATES.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\bin\Debug\net5.0\SINGLE CAST DELEGATES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\bin\Debug\net5.0\SINGLE CAST DELEGATES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\refint\SINGLE CAST DELEGATES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\SINGLE CAST DELEGATES.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\SINGLE CAST DELEGATES\obj\Debug\net5.0\ref\SINGLE CAST DELEGATES.dll
