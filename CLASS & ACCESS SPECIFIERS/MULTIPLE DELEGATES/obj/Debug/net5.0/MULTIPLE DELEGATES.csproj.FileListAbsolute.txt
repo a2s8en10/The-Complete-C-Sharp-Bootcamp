@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\bin\Debug\net5.0\MULTIPLE DELEGATES.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\bin\Debug\net5.0\MULTIPLE DELEGATES.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\bin\Debug\net5.0\MULTIPLE DELEGATES.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\bin\Debug\net5.0\MULTIPLE DELEGATES.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\bin\Debug\net5.0\MULTIPLE DELEGATES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\bin\Debug\net5.0\MULTIPLE DELEGATES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\refint\MULTIPLE DELEGATES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\MULTIPLE DELEGATES.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\MULTIPLE DELEGATES\obj\Debug\net5.0\ref\MULTIPLE DELEGATES.dll
