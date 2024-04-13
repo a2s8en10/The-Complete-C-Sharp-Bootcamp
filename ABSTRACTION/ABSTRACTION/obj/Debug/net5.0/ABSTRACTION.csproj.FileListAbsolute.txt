@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\bin\Debug\net5.0\ABSTRACTION.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\bin\Debug\net5.0\ABSTRACTION.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\bin\Debug\net5.0\ABSTRACTION.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\bin\Debug\net5.0\ABSTRACTION.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\bin\Debug\net5.0\ABSTRACTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\bin\Debug\net5.0\ABSTRACTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\refint\ABSTRACTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ABSTRACTION.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACTION\obj\Debug\net5.0\ref\ABSTRACTION.dll
