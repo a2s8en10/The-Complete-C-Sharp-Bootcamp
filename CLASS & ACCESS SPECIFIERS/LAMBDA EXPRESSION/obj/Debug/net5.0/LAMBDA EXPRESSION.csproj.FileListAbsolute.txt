@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\bin\Debug\net5.0\LAMBDA EXPRESSION.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\bin\Debug\net5.0\LAMBDA EXPRESSION.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\bin\Debug\net5.0\LAMBDA EXPRESSION.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\bin\Debug\net5.0\LAMBDA EXPRESSION.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\bin\Debug\net5.0\LAMBDA EXPRESSION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\bin\Debug\net5.0\LAMBDA EXPRESSION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\refint\LAMBDA EXPRESSION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\LAMBDA EXPRESSION.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\CLASS & ACCESS SPECIFIERS\LAMBDA EXPRESSION\obj\Debug\net5.0\ref\LAMBDA EXPRESSION.dll
