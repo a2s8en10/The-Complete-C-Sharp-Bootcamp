@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ABSTRACT CLASS AND ABSTRACT METHOD/1.0.0": {
+        "runtime": {
+          "ABSTRACT CLASS AND ABSTRACT METHOD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABSTRACT CLASS AND ABSTRACT METHOD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
