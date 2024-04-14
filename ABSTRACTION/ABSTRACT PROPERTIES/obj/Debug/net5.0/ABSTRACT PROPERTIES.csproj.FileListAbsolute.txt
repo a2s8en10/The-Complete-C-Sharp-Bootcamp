@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\bin\Debug\net5.0\ABSTRACT PROPERTIES.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\bin\Debug\net5.0\ABSTRACT PROPERTIES.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\bin\Debug\net5.0\ABSTRACT PROPERTIES.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\bin\Debug\net5.0\ABSTRACT PROPERTIES.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\bin\Debug\net5.0\ABSTRACT PROPERTIES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\bin\Debug\net5.0\ABSTRACT PROPERTIES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\refint\ABSTRACT PROPERTIES.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ABSTRACT PROPERTIES.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\ABSTRACT PROPERTIES\obj\Debug\net5.0\ref\ABSTRACT PROPERTIES.dll
