@@ -8,15 +8,16 @@ namespace ABSTRACTION
         public string name;
         public int age;
         public int salary;
+        
 
-        public employee(int id, int age ,int salary, string name)
+        public employee(int Id, int Age,int Salary, string Name)
         {
-            this.id = id;
-            this.age = age;
-            this.salary = salary;
-            this.name = name;
+            this.id = Id;
+            this.age = Age;
+            this.name = Name;
+            this.salary = Salary;
         }
-        private void checkage(int age)
+        void checkage()
         {
             if (age <= 0)
             {
@@ -24,15 +25,15 @@ namespace ABSTRACTION
             }
             else
             {
-                Console.WriteLine("Age is {0}",age);
+                Console.WriteLine("Age is : {0}",age);
             }
         }
         public void employeedetaile()
         {
             Console.WriteLine("Name is : {0}",this.name);
-            Console.WriteLine("Age is : {0}", this.age);
-            Console.WriteLine("salary is : {0}", this.salary);
             Console.WriteLine("I`D is : {0}", this.id);
+            Console.WriteLine("Salary is : {0}",this.salary);
+            this.checkage();
         }
 
     }
@@ -41,8 +42,7 @@ namespace ABSTRACTION
     {
         static void Main(string[] args)
         {
-            employee obj = new employee (43,0,132098, "Anurag");
-            obj.
+            employee obj = new employee (43,20,23888,"Anurag");
             obj.employeedetaile();
             Console.ReadLine();
         }
