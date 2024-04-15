@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\bin\Debug\net5.0\INTERFACE.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\bin\Debug\net5.0\INTERFACE.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\bin\Debug\net5.0\INTERFACE.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\bin\Debug\net5.0\INTERFACE.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\bin\Debug\net5.0\INTERFACE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\bin\Debug\net5.0\INTERFACE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\refint\INTERFACE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\INTERFACE.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\INTERFACE\obj\Debug\net5.0\ref\INTERFACE.dll
