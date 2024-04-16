@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\bin\Debug\net5.0\MULTIPLE INHERITANCE.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\bin\Debug\net5.0\MULTIPLE INHERITANCE.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\bin\Debug\net5.0\MULTIPLE INHERITANCE.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\bin\Debug\net5.0\MULTIPLE INHERITANCE.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\bin\Debug\net5.0\MULTIPLE INHERITANCE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\bin\Debug\net5.0\MULTIPLE INHERITANCE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\refint\MULTIPLE INHERITANCE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\MULTIPLE INHERITANCE.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\ABSTRACTION\MULTIPLE INHERITANCE\obj\Debug\net5.0\ref\MULTIPLE INHERITANCE.dll
