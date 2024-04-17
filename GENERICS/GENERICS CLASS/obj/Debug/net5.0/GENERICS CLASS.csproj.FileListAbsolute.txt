@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\bin\Debug\net5.0\GENERICS CLASS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\bin\Debug\net5.0\GENERICS CLASS.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\bin\Debug\net5.0\GENERICS CLASS.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\bin\Debug\net5.0\GENERICS CLASS.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\bin\Debug\net5.0\GENERICS CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\bin\Debug\net5.0\GENERICS CLASS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\refint\GENERICS CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\GENERICS CLASS.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS CLASS\obj\Debug\net5.0\ref\GENERICS CLASS.dll
