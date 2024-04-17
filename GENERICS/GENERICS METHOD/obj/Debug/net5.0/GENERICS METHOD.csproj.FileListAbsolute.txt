@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\bin\Debug\net5.0\GENERICS METHOD.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\bin\Debug\net5.0\GENERICS METHOD.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\bin\Debug\net5.0\GENERICS METHOD.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\bin\Debug\net5.0\GENERICS METHOD.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\bin\Debug\net5.0\GENERICS METHOD.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\bin\Debug\net5.0\GENERICS METHOD.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\refint\GENERICS METHOD.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\GENERICS METHOD.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\GENERICS METHOD\obj\Debug\net5.0\ref\GENERICS METHOD.dll
