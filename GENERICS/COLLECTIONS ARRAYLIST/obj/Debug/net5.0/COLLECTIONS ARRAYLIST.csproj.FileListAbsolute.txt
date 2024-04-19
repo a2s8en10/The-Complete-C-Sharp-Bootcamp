@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\bin\Debug\net5.0\COLLECTIONS ARRAYLIST.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\bin\Debug\net5.0\COLLECTIONS ARRAYLIST.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\bin\Debug\net5.0\COLLECTIONS ARRAYLIST.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\bin\Debug\net5.0\COLLECTIONS ARRAYLIST.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\bin\Debug\net5.0\COLLECTIONS ARRAYLIST.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\bin\Debug\net5.0\COLLECTIONS ARRAYLIST.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\refint\COLLECTIONS ARRAYLIST.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\COLLECTIONS ARRAYLIST.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\COLLECTIONS ARRAYLIST\obj\Debug\net5.0\ref\COLLECTIONS ARRAYLIST.dll
