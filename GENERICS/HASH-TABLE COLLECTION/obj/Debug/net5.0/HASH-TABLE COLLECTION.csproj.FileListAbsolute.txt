@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\bin\Debug\net5.0\HASH-TABLE COLLECTION.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\bin\Debug\net5.0\HASH-TABLE COLLECTION.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\bin\Debug\net5.0\HASH-TABLE COLLECTION.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\bin\Debug\net5.0\HASH-TABLE COLLECTION.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\bin\Debug\net5.0\HASH-TABLE COLLECTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\bin\Debug\net5.0\HASH-TABLE COLLECTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\refint\HASH-TABLE COLLECTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\HASH-TABLE COLLECTION.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\HASH-TABLE COLLECTION\obj\Debug\net5.0\ref\HASH-TABLE COLLECTION.dll
