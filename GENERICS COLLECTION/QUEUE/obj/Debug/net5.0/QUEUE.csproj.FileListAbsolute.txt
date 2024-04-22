@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\bin\Debug\net5.0\QUEUE.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\bin\Debug\net5.0\QUEUE.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\bin\Debug\net5.0\QUEUE.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\bin\Debug\net5.0\QUEUE.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\bin\Debug\net5.0\QUEUE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\bin\Debug\net5.0\QUEUE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\refint\QUEUE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\QUEUE.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\QUEUE\obj\Debug\net5.0\ref\QUEUE.dll
