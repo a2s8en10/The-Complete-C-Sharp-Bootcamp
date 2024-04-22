@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\bin\Debug\net5.0\STACK.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\bin\Debug\net5.0\STACK.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\bin\Debug\net5.0\STACK.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\bin\Debug\net5.0\STACK.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\bin\Debug\net5.0\STACK.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\bin\Debug\net5.0\STACK.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\refint\STACK.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\STACK.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS\STACK\obj\Debug\net5.0\ref\STACK.dll
