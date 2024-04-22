@@ -24,7 +24,7 @@ namespace STACK
             Console.WriteLine(mystack.Contains("Anurag"));
 
             Console.WriteLine("Remove the top value :-");
-            mystack.Peek();
+            mystack.Pop();
             foreach (object i in mystack)
             {
                 Console.WriteLine(i);
