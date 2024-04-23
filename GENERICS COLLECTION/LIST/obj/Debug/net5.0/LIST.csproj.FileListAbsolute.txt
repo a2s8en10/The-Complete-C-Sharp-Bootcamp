@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\bin\Debug\net5.0\LIST.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\bin\Debug\net5.0\LIST.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\bin\Debug\net5.0\LIST.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\bin\Debug\net5.0\LIST.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\bin\Debug\net5.0\LIST.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\bin\Debug\net5.0\LIST.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\refint\LIST.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\LIST.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\LIST\obj\Debug\net5.0\ref\LIST.dll
