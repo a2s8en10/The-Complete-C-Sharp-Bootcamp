@@ -27,8 +27,7 @@ namespace LIST
                 age = 42
             };
 
-
-            List<Employee> myemployee = new List<Employee>();
+            List<Employee> myemployee = new List<Employee>(); // list of employee  // {myemployee} is a object of list of employee 
             myemployee.Add(emp1);
             myemployee.Add(emp2);
             myemployee.Add(emp3);
@@ -37,6 +36,13 @@ namespace LIST
             {
                 Console.WriteLine("name : {0}  id : {1}  age : {2}", emp.name, emp.id, emp.age);
             }
+            Console.WriteLine("--------------------------");
+
+            Employee myemp = myemployee.FindLast(e => e.age < 40);
+            //Employee myemp = myemployee.Find(e => e.age < 20);  // find is the first value with condition 
+
+            Console.WriteLine("name : {0}  id : {1}  age : {2}", myemp.name, myemp.id, myemp.age);
+            
 
             //List<char> mychar = new List<char>();
             //mychar.Add('A');
@@ -55,7 +61,6 @@ namespace LIST
             //{
             //    Console.WriteLine(item);
             //}
-            Console.WriteLine("--------------------------");
            //Employee emp = myemployee.Find(myemployee => myemployee.age > 20);
            // foreach (Employee e in myemployee)
            // {
