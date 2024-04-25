@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\bin\Debug\net5.0\DICTIONARY.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\bin\Debug\net5.0\DICTIONARY.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\bin\Debug\net5.0\DICTIONARY.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\bin\Debug\net5.0\DICTIONARY.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\bin\Debug\net5.0\DICTIONARY.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\bin\Debug\net5.0\DICTIONARY.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\refint\DICTIONARY.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\DICTIONARY.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GENERICS COLLECTION\DICTIONARY\obj\Debug\net5.0\ref\DICTIONARY.dll
