@@ -10,13 +10,13 @@ namespace NULL_REFERENCE_EXCEPTION
             try
             {
                 string name = null;
-                Console.WriteLine(name);
+                Console.WriteLine(name.Length);
             }
-            catch (NullReferenceException ex)
+            catch(NullReferenceException Ex)
             {
                 Console.WriteLine("string is null");
+                Console.WriteLine(Ex.Message);
             }
-
             Console.ReadLine();
         }
     }
