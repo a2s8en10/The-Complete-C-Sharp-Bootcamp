@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIVIDE BY ZERO EXCEPTION/1.0.0": {
+        "runtime": {
+          "DIVIDE BY ZERO EXCEPTION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIVIDE BY ZERO EXCEPTION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\bin\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\bin\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\bin\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\bin\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\bin\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\bin\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\refint\DIVIDE BY ZERO EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\DIVIDE BY ZERO EXCEPTION.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\DIVIDE BY ZERO EXCEPTION\obj\Debug\net5.0\ref\DIVIDE BY ZERO EXCEPTION.dll
