@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\bin\Debug\net5.0\FORMATE EXCEPTION.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\bin\Debug\net5.0\FORMATE EXCEPTION.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\bin\Debug\net5.0\FORMATE EXCEPTION.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\bin\Debug\net5.0\FORMATE EXCEPTION.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\bin\Debug\net5.0\FORMATE EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\bin\Debug\net5.0\FORMATE EXCEPTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\refint\FORMATE EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\FORMATE EXCEPTION.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FORMATE EXCEPTION\obj\Debug\net5.0\ref\FORMATE EXCEPTION.dll
