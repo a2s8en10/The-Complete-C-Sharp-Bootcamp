@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\bin\Debug\net5.0\INDEX OUT OF RANGE.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\bin\Debug\net5.0\INDEX OUT OF RANGE.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\bin\Debug\net5.0\INDEX OUT OF RANGE.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\bin\Debug\net5.0\INDEX OUT OF RANGE.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\bin\Debug\net5.0\INDEX OUT OF RANGE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\bin\Debug\net5.0\INDEX OUT OF RANGE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\refint\INDEX OUT OF RANGE.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\INDEX OUT OF RANGE.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\INDEX OUT OF RANGE\obj\Debug\net5.0\ref\INDEX OUT OF RANGE.dll
