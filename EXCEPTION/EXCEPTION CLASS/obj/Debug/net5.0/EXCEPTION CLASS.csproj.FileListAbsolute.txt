@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\bin\Debug\net5.0\EXCEPTION CLASS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\bin\Debug\net5.0\EXCEPTION CLASS.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\bin\Debug\net5.0\EXCEPTION CLASS.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\bin\Debug\net5.0\EXCEPTION CLASS.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\bin\Debug\net5.0\EXCEPTION CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\bin\Debug\net5.0\EXCEPTION CLASS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\refint\EXCEPTION CLASS.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\EXCEPTION CLASS.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\EXCEPTION CLASS\obj\Debug\net5.0\ref\EXCEPTION CLASS.dll
