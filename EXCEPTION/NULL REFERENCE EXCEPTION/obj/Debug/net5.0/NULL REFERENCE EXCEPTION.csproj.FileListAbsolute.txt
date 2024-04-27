@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\bin\Debug\net5.0\NULL REFERENCE EXCEPTION.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\bin\Debug\net5.0\NULL REFERENCE EXCEPTION.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\bin\Debug\net5.0\NULL REFERENCE EXCEPTION.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\bin\Debug\net5.0\NULL REFERENCE EXCEPTION.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\bin\Debug\net5.0\NULL REFERENCE EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\bin\Debug\net5.0\NULL REFERENCE EXCEPTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\refint\NULL REFERENCE EXCEPTION.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\NULL REFERENCE EXCEPTION.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\NULL REFERENCE EXCEPTION\obj\Debug\net5.0\ref\NULL REFERENCE EXCEPTION.dll
