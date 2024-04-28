@@ -8,7 +8,7 @@ namespace TRY_WITH_MULTIPLE_CATCH_BLOCKS
         {
             try
             {
-                int a = 12;
+                int a = 12;  // first exception are solve then next exception are solve
                 int b = 0;
                 int c = a / b;
 
