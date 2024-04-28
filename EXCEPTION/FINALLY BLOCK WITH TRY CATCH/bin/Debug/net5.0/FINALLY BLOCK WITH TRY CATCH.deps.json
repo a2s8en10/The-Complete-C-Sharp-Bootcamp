@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FINALLY BLOCK WITH TRY CATCH/1.0.0": {
+        "runtime": {
+          "FINALLY BLOCK WITH TRY CATCH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FINALLY BLOCK WITH TRY CATCH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\bin\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\bin\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\bin\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\bin\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\bin\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\bin\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\refint\FINALLY BLOCK WITH TRY CATCH.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\FINALLY BLOCK WITH TRY CATCH.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXCEPTION\FINALLY BLOCK WITH TRY CATCH\obj\Debug\net5.0\ref\FINALLY BLOCK WITH TRY CATCH.dll
