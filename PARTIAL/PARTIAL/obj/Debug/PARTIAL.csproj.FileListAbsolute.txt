@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\bin\Debug\PARTIAL.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\bin\Debug\PARTIAL.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\bin\Debug\PARTIAL.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\obj\Debug\PARTIAL.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\obj\Debug\PARTIAL.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\obj\Debug\PARTIAL.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL\obj\Debug\PARTIAL.pdb
