@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\bin\Debug\PARTIAL RULE.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\bin\Debug\PARTIAL RULE.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\bin\Debug\PARTIAL RULE.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\obj\Debug\PARTIAL RULE.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\obj\Debug\PARTIAL RULE.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\obj\Debug\PARTIAL RULE.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARTIAL\PARTIAL RULE\obj\Debug\PARTIAL RULE.pdb

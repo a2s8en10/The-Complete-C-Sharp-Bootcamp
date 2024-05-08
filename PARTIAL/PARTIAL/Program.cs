@@ -13,7 +13,7 @@ namespace PARTIAL
             student obj = new student();
             obj.Firtstname = "Anurag";
             obj.Lastname = "sahu";
-            Console.WriteLine("Your name is {0}",obj.fullname());
+            Console.WriteLine("Your name is : {0}",obj.fullname());
             Console.ReadLine();
         }
     }
