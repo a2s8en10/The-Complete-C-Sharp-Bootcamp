@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\bin\Debug\PARAMS KEYWORD.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\bin\Debug\PARAMS KEYWORD.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\bin\Debug\PARAMS KEYWORD.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\obj\Debug\PARAMS KEYWORD.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\obj\Debug\PARAMS KEYWORD.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\obj\Debug\PARAMS KEYWORD.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\PARAMS\PARAMS KEYWORD\obj\Debug\PARAMS KEYWORD.pdb
