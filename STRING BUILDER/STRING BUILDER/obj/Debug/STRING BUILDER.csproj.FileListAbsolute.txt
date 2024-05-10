@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\bin\Debug\STRING BUILDER.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\bin\Debug\STRING BUILDER.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\bin\Debug\STRING BUILDER.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\obj\Debug\STRING BUILDER.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\obj\Debug\STRING BUILDER.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\obj\Debug\STRING BUILDER.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRING BUILDER\STRING BUILDER\obj\Debug\STRING BUILDER.pdb
