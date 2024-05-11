@@ -26,7 +26,6 @@ namespace STRUCTURES
             Program p; // without constructor structure object create
             p.func();
 
-
             Console.ReadLine();
             // struct is value type , stack memory
             // 
