@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace STRUCTURES
 {
-    struct Program
+    class num
+    {
+        public void num1()
+        {
+            Console.WriteLine("function inheritance");
+        }
+    }
+    struct Program // struct is not inherite 
     {
         public void func()
         {
@@ -18,7 +25,11 @@ namespace STRUCTURES
             //or 
             Program p; // without constructor structure object create
             p.func();
+
+
             Console.ReadLine();
+            // struct is value type , stack memory
+            // 
         }
     }
 }
