@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\bin\Debug\Guid.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\bin\Debug\Guid.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\bin\Debug\Guid.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\obj\Debug\Guid.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\obj\Debug\Guid.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\obj\Debug\Guid.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\GUID\Guid\obj\Debug\Guid.pdb
