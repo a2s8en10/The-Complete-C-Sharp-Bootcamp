@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\bin\Debug\STRUCTURES.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\bin\Debug\STRUCTURES.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\bin\Debug\STRUCTURES.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\obj\Debug\STRUCTURES.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\obj\Debug\STRUCTURES.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\obj\Debug\STRUCTURES.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\STRUCTURES\STRUCTURES\obj\Debug\STRUCTURES.pdb
