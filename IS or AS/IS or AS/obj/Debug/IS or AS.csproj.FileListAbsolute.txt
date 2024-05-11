@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\bin\Debug\IS or AS.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\bin\Debug\IS or AS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\bin\Debug\IS or AS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\obj\Debug\IS or AS.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\obj\Debug\IS or AS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\obj\Debug\IS or AS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\IS or AS\IS or AS\obj\Debug\IS or AS.pdb
