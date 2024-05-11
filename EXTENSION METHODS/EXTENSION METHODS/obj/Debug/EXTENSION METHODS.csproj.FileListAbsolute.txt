@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\bin\Debug\EXTENSION METHODS.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\bin\Debug\EXTENSION METHODS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\bin\Debug\EXTENSION METHODS.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\obj\Debug\EXTENSION METHODS.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\obj\Debug\EXTENSION METHODS.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\obj\Debug\EXTENSION METHODS.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\EXTENSION METHODS\EXTENSION METHODS\obj\Debug\EXTENSION METHODS.pdb
