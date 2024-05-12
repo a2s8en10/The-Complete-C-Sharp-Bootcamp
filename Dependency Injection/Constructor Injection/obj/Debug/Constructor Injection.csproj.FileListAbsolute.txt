@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\bin\Debug\Constructor Injection.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\bin\Debug\Constructor Injection.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\bin\Debug\Constructor Injection.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\obj\Debug\Constructor Injection.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\obj\Debug\Constructor Injection.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Dependency Injection\Constructor Injection\obj\Debug\Constructor Injection.pdb
