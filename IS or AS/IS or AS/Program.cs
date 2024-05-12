@@ -10,19 +10,22 @@ namespace IS_or_AS
     {
         static void Main(string[] args)
         {
-            int a = 1;
-            //bool b = a is int;
-            //Console.WriteLine(b);
+            //int a = 1;
+            ////bool b = a is int;
+            ////Console.WriteLine(b);
 
-            if(a is int)
-            {
-                Console.WriteLine("A is int");
-            }
-            else
-            {
-                Console.WriteLine("A is another type");
-            }
+            //if(a is int)
+            //{
+            //    Console.WriteLine("A is int");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("A is another type");
+            //}
 
+            object a = "Anurag";
+            string str = a as string;
+            Console.WriteLine(str);
 
 
             Console.ReadLine();
