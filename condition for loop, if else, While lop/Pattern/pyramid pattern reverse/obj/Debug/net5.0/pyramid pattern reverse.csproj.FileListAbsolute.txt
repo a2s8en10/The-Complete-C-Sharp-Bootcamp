@@ -1,0 +1,30 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\refint\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pyramid pattern reverse\obj\Debug\net5.0\ref\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\bin\Debug\net5.0\pyramid pattern reverse.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\refint\pyramid pattern reverse.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\pyramid pattern reverse.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pyramid pattern reverse\obj\Debug\net5.0\ref\pyramid pattern reverse.dll

@@ -1,0 +1,30 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\bin\Debug\net5.0\Pattern tringle.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\bin\Debug\net5.0\Pattern tringle.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\bin\Debug\net5.0\Pattern tringle.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\bin\Debug\net5.0\Pattern tringle.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\bin\Debug\net5.0\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\bin\Debug\net5.0\Pattern tringle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\refint\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\Pattern tringle.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Pattern tringle\obj\Debug\net5.0\ref\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\bin\Debug\net5.0\Pattern tringle.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\bin\Debug\net5.0\Pattern tringle.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\bin\Debug\net5.0\Pattern tringle.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\bin\Debug\net5.0\Pattern tringle.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\bin\Debug\net5.0\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\bin\Debug\net5.0\Pattern tringle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\refint\Pattern tringle.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\Pattern tringle.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\Pattern tringle\obj\Debug\net5.0\ref\Pattern tringle.dll

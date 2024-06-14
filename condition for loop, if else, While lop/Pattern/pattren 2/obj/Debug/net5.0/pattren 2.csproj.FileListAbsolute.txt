@@ -1,0 +1,30 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\bin\Debug\net5.0\pattren 2.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\bin\Debug\net5.0\pattren 2.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\bin\Debug\net5.0\pattren 2.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\bin\Debug\net5.0\pattren 2.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\bin\Debug\net5.0\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\bin\Debug\net5.0\pattren 2.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\refint\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\pattren 2.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\pattren 2\obj\Debug\net5.0\ref\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\bin\Debug\net5.0\pattren 2.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\bin\Debug\net5.0\pattren 2.deps.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\bin\Debug\net5.0\pattren 2.runtimeconfig.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\bin\Debug\net5.0\pattren 2.runtimeconfig.dev.json
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\bin\Debug\net5.0\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\bin\Debug\net5.0\pattren 2.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.AssemblyInfoInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.AssemblyInfo.cs
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\refint\pattren 2.dll
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\pattren 2.genruntimeconfig.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\condition for loop, if else, While lop\Pattern\pattren 2\obj\Debug\net5.0\ref\pattren 2.dll
