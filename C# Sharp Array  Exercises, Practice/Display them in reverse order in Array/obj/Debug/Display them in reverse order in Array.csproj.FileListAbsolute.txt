@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\bin\Debug\Display them in reverse order in Array.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\bin\Debug\Display them in reverse order in Array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\bin\Debug\Display them in reverse order in Array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\obj\Debug\Display them in reverse order in Array.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\obj\Debug\Display them in reverse order in Array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\obj\Debug\Display them in reverse order in Array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Display them in reverse order in Array\obj\Debug\Display them in reverse order in Array.pdb
