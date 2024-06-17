@@ -14,21 +14,18 @@ namespace Stores_elements_in_an_array
             int n = int.Parse(Console.ReadLine());
             int[] num = new int[n];
            
-            Console.WriteLine("Enter the element of Array : ");
+            Console.WriteLine("--------------------");
             for (int i = 0; i < n; i++)                 
             {
+                Console.Write("Element {0} : ",i);
                 int m = int.Parse( Console.ReadLine());
                 num[i] = m;
             }
 
-            Console.WriteLine("--------------------");
-
-            int c = -1;  // index number print
-
+            Console.Write("Elements in array are: ");
             foreach (int i in num)
             {
-                c++;
-                Console.WriteLine("Element {0} : {1}", c, i);
+                Console.Write("{0} ",i);
             }
 
             Console.ReadLine();
