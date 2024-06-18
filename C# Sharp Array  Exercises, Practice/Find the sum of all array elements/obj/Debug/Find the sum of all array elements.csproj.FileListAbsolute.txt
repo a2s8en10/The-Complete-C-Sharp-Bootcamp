@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\bin\Debug\Find the sum of all array elements.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\bin\Debug\Find the sum of all array elements.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\bin\Debug\Find the sum of all array elements.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\obj\Debug\Find the sum of all array elements.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\obj\Debug\Find the sum of all array elements.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\obj\Debug\Find the sum of all array elements.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Find the sum of all array elements\obj\Debug\Find the sum of all array elements.pdb
