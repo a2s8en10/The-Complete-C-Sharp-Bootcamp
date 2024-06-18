@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Count_duplicate_elements_in_an_array
+namespace Print_all_unique_elements_in_an_array
 {
     internal class Program
     {
@@ -21,18 +21,19 @@ namespace Count_duplicate_elements_in_an_array
                 num[i] = a;
             }
             int count = 0;
-            for (int i = 0;i < n; i++)
+            int sum = 0;
+            for (int i = 0; i < n; i++)
             {
-                for (int j = i+1; j < n; j++)
+                for (int j = i + 1; j < n; j++)
                 {
                     if (num[i] == num[j])
                     {
                         count++;
                     }
-                   
                 }
             }
-            Console.WriteLine("Total number of duplicate elements found in the array is :{0}",count);
+            sum = n - (count * 2);
+            Console.WriteLine("Total number of unique elements found in the array is :{0}", sum);
             Console.ReadLine();
         }
     }
