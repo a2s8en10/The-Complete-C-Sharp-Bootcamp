@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\bin\Debug\Copy the elements of one array into another array.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\bin\Debug\Copy the elements of one array into another array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\bin\Debug\Copy the elements of one array into another array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\obj\Debug\Copy the elements of one array into another array.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\obj\Debug\Copy the elements of one array into another array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\obj\Debug\Copy the elements of one array into another array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Copy the elements of one array into another array\obj\Debug\Copy the elements of one array into another array.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Find_the_sum_of_all_array_elements
+namespace Copy_the_elements_of_one_array_into_another_array
 {
     internal class Program
     {
@@ -20,14 +20,18 @@ namespace Find_the_sum_of_all_array_elements
                 int a = int.Parse(Console.ReadLine());
                 num[i] = a;
             }
-
-            int sum = 0;
-            for (int i = 0;i < n; i++)
+            Console.WriteLine("The elements stored in the first array are :");
+            foreach (int i in num)
             {
-                sum = sum + num[i];
-                //sum += num[i];
+                Console.Write("{0} ",i);
             }
-            Console.Write("Sum of all elements stored in the array is : {0}",sum);
+            Console.WriteLine("\n");
+
+            Console.WriteLine("The elements stored in the second array are :");
+            foreach (int i in num)
+            {
+                Console.Write("{0} ",i);
+            }
 
             Console.ReadLine();
         }
