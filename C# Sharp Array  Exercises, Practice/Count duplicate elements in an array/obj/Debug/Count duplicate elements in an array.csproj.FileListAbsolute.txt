@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\bin\Debug\Count duplicate elements in an array.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\bin\Debug\Count duplicate elements in an array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\bin\Debug\Count duplicate elements in an array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\obj\Debug\Count duplicate elements in an array.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\obj\Debug\Count duplicate elements in an array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\obj\Debug\Count duplicate elements in an array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count duplicate elements in an array\obj\Debug\Count duplicate elements in an array.pdb
