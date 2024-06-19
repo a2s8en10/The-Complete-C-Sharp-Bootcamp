@@ -22,6 +22,7 @@ namespace Print_all_unique_elements_in_an_array
             }
             int count = 0;
             int sum = 0;
+
             for (int i = 0; i < n; i++)
             {
                 for (int j = i + 1; j < n; j++)
