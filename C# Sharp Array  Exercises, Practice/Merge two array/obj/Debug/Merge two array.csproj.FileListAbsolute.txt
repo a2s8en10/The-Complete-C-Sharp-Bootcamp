@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\bin\Debug\Merge two array.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\bin\Debug\Merge two array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\bin\Debug\Merge two array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\obj\Debug\Merge two array.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\obj\Debug\Merge two array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\obj\Debug\Merge two array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Merge two array\obj\Debug\Merge two array.pdb
