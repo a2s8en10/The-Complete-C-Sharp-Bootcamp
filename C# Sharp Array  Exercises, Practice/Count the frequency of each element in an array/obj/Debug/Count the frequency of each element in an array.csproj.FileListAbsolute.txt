@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\bin\Debug\Count the frequency of each element in an array.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\bin\Debug\Count the frequency of each element in an array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\bin\Debug\Count the frequency of each element in an array.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\obj\Debug\Count the frequency of each element in an array.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\obj\Debug\Count the frequency of each element in an array.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\obj\Debug\Count the frequency of each element in an array.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\C# Sharp Array  Exercises, Practice\Count the frequency of each element in an array\obj\Debug\Count the frequency of each element in an array.pdb

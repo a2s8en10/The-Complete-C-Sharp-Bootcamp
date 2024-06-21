@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count the frequency of each element in an array", "Count the frequency of each element in an array.csproj", "{B55C4395-3775-4FFB-AC20-992D5EF6F651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55C4395-3775-4FFB-AC20-992D5EF6F651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55C4395-3775-4FFB-AC20-992D5EF6F651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55C4395-3775-4FFB-AC20-992D5EF6F651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55C4395-3775-4FFB-AC20-992D5EF6F651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B362BD91-032F-422E-B480-11DC29659323}
+	EndGlobalSection
+EndGlobal
