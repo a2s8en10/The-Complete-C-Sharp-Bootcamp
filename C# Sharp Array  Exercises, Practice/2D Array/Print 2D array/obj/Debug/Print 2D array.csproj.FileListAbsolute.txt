@@ -1,0 +1,7 @@
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\bin\Debug\Print 2D array.exe.config
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\bin\Debug\Print 2D array.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\bin\Debug\Print 2D array.pdb
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\obj\Debug\Print 2D array.csproj.AssemblyReference.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\obj\Debug\Print 2D array.csproj.CoreCompileInputs.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\obj\Debug\Print 2D array.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Print 2D array\obj\Debug\Print 2D array.pdb
