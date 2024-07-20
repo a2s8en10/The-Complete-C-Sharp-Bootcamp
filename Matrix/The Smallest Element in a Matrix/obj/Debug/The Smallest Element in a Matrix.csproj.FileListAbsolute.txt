@@ -1,0 +1,7 @@
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\bin\Debug\The Smallest Element in a Matrix.exe.config
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\bin\Debug\The Smallest Element in a Matrix.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\bin\Debug\The Smallest Element in a Matrix.pdb
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\obj\Debug\The Smallest Element in a Matrix.csproj.AssemblyReference.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\obj\Debug\The Smallest Element in a Matrix.csproj.CoreCompileInputs.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\obj\Debug\The Smallest Element in a Matrix.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\The Smallest Element in a Matrix\obj\Debug\The Smallest Element in a Matrix.pdb

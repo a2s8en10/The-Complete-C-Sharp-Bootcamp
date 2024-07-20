@@ -23,7 +23,7 @@ namespace Print_2D_array
                     for (int j = 0; j < n; j++)
                     {
                         A[i, j] = int.Parse(Console.ReadLine());
-                    }
+                    }       
                 }
 
             Console.WriteLine("\nMatrix : ");

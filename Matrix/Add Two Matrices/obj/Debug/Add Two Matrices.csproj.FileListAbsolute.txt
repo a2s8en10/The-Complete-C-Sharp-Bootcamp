@@ -1,0 +1,7 @@
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\bin\Debug\Add Two Matrices.exe.config
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\bin\Debug\Add Two Matrices.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\bin\Debug\Add Two Matrices.pdb
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\obj\Debug\Add Two Matrices.csproj.AssemblyReference.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\obj\Debug\Add Two Matrices.csproj.CoreCompileInputs.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\obj\Debug\Add Two Matrices.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Add Two Matrices\obj\Debug\Add Two Matrices.pdb
