@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\bin\Debug\Multiply Two matrices.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\bin\Debug\Multiply Two matrices.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\bin\Debug\Multiply Two matrices.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\obj\Debug\Multiply Two matrices.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\obj\Debug\Multiply Two matrices.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\obj\Debug\Multiply Two matrices.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Multiply Two matrices\obj\Debug\Multiply Two matrices.pdb
