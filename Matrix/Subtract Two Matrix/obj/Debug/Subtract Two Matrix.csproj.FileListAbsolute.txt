@@ -1,0 +1,7 @@
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\bin\Debug\Subtract Two Matrix.exe.config
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\bin\Debug\Subtract Two Matrix.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\bin\Debug\Subtract Two Matrix.pdb
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\obj\Debug\Subtract Two Matrix.csproj.AssemblyReference.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\obj\Debug\Subtract Two Matrix.csproj.CoreCompileInputs.cache
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\obj\Debug\Subtract Two Matrix.exe
+D:\Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\Subtract Two Matrix\obj\Debug\Subtract Two Matrix.pdb
