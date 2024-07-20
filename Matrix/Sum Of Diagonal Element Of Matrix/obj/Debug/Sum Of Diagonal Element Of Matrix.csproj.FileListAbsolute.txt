@@ -1,0 +1,7 @@
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\bin\Debug\Sum Of Diagonal Element Of Matrix.exe.config
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\bin\Debug\Sum Of Diagonal Element Of Matrix.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\bin\Debug\Sum Of Diagonal Element Of Matrix.pdb
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\obj\Debug\Sum Of Diagonal Element Of Matrix.csproj.AssemblyReference.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\obj\Debug\Sum Of Diagonal Element Of Matrix.csproj.CoreCompileInputs.cache
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\obj\Debug\Sum Of Diagonal Element Of Matrix.exe
+D:\Hosting\The-Complete-C-Sharp-Bootcamp\Matrix\Sum Of Diagonal Element Of Matrix\obj\Debug\Sum Of Diagonal Element Of Matrix.pdb
